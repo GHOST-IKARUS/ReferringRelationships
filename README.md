@@ -1,23 +1,6 @@
 # Referring Relationships
 
-![Referring Relationships model](https://cs.stanford.edu/people/ranjaykrishna/referringrelationships/model.jpg)
-
-This repository contains code used to produce the results in the following paper:
-
-### [Referring Relationships](https://cs.stanford.edu/people/ranjaykrishna/referringrelationships/index.html) <br/>
-[Ranjay Krishna](http://ranjaykrishna.com)<sup>&dagger;</sup>, [Ines Chami](http://web.stanford.edu/~chami/)<sup>&dagger;</sup>, [Michael Bernstein](http://hci.st/msb), [Li Fei-Fei](https://twitter.com/drfeifei) <br/>
-IEEE Conference on Computer Vision and Pattern Recognition ([CVPR](http://cvpr2018.thecvf.com/)), 2018 <br/>
-
 If you are using this repository, please use the following citation:
-
-```
-@inproceedings{krishna2018referring,
-  title={Referring Relationships},
-  author={Krishna, Ranjay and Chami, Ines and Bernstein, Michael and Fei-Fei, Li },
-  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2018}
-}
-```
 
 ## Clone the repository and install the dependencies.
 
